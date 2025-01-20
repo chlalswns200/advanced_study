@@ -1,6 +1,7 @@
-package hello.advanced.trace.strategy;
+package hello.advanced.trace.strategy.code;
 
-import hello.advanced.trace.template.code.TimeLogTemplate;
+import hello.advanced.trace.strategy.code.template.Callback;
+import hello.advanced.trace.strategy.code.template.TimeLogTemplate;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

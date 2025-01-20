@@ -1,6 +1,6 @@
-package hello.advanced.trace.template.code;
+package hello.advanced.trace.strategy.code.template;
 
-import hello.advanced.trace.strategy.Callback;
+import hello.advanced.trace.strategy.code.template.Callback;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
